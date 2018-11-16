@@ -7,7 +7,7 @@
 //============================================================================
 
 #include <iostream>
-using namespace std;
+using namespace std
 void input(int &n1, int &d1, int &n2, int &d2);
 void menufunc(char &menu);
 void multiply(int n1, int d1, int n2, int d2, int &prn, int &prd);
